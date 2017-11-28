@@ -30,11 +30,14 @@ v1 > Scanner (user input)
 
 
 *** Extra HELP ***
+
 1.	
 Type sysout then pres Ctrl + space, then enter to get a faster System.out.println(); You can also use this for other commands to get the coding faster.
 
+
 2.	
 Can't get { after a fresh install?? Go to Window > Preferences and type Keys in the search. In the keys search type Ctrl + Alt + b, and click on "Unbind Command" then "Apply and close". Now you can code on.
+
 
 3.
 If you need to comment on something you can use 
@@ -42,8 +45,10 @@ If you need to comment on something you can use
 /* For a 
 Multi line comment */
 
+
 4.
 To get your code formated nicely press Ctrl + Shift + f
+
 
 5.
 To delete a whole line use Ctrl +d when you are in that line. 
