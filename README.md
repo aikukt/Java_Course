@@ -39,4 +39,4 @@ Multi line comment */
 To get your code formated nicely press Ctrl + Shift + f
 
 5.
-To delete a whole line use Ctrl +d when you are in that line.
+To delete a whole line use Ctrl +d when you are in that line. 
