@@ -27,6 +27,22 @@ Tutorial_006
 
 v1 > Scanner (user input)
 
+Tutorial_007
+
+v1 > while, do while loop
+
+Tutorial_008
+
+v1 > switch statment
+
+Tutorial_009
+
+v1 > arrays
+
+Tutorial_010
+
+v1 > array of string, and iteration trough them (for each)
+
 
 
 *** Extra HELP ***
@@ -51,4 +67,7 @@ To get your code formated nicely press Ctrl + Shift + f
 
 
 5.
-To delete a whole line use Ctrl +d when you are in that line. 
+To delete a whole line use Ctrl + d when you are in that line. 
+
+6.
+Ctrl + Shift + o imports needed modules
