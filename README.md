@@ -8,66 +8,54 @@ v1 > Hello world. Simple print out project. (I'll make a video with whole instal
 v2 > Added primitive types declaration and initiazations.
 
 Tutorial_002
-
 v1 > Simple string manipulation.
 
 Tutorial_003
-
 v1 > While loop
 
 Tutorial_004
-
 v2 > For loop
 
 Tutorial_005
-
 v1 > if statemant
 
 Tutorial_006
-
 v1 > Scanner (user input)
 
 Tutorial_007
-
 v1 > while, do while loop
 
 Tutorial_008
-
 v1 > switch statment
 
 Tutorial_009
-
 v1 > arrays
 
 Tutorial_010
-
 v1 > array of string, and iteration trough them (for each)
 
+Tutorial_011
+v1 > Getting user input
 
+Tutorial_012
+v1 > Do while loop, variable scope, multiline comments
 
-*** Extra HELP ***
+Tutorial_013
+v1 > Switch
 
-1.	
-Type sysout then pres Ctrl + space, then enter to get a faster System.out.println(); You can also use this for other commands to get the coding faster.
+ Tutorial_014
+v1 > Arrays numbers
 
+Tutorial_015
+v1 > Arrays of strings
 
-2.	
-Can't get { after a fresh install?? Go to Window > Preferences and type Keys in the search. In the keys search type Ctrl + Alt + b, and click on "Unbind Command" then "Apply and close". Now you can code on.
+Tutorial_016
+v1 > Multi dimensional arrays
 
+Tutorial_017
+v1 > Classes & Object oriented programming
+v2 > my test
+v3 > Methods
 
-3.
-If you need to comment on something you can use 
-// For a single line comment
-/* For a 
-Multi line comment */
-
-
-4.
-To get your code formated nicely press Ctrl + Shift + f
-
-
-5.
-To delete a whole line use Ctrl + d when you are in that line. 
-
-6.
-Ctrl + Shift + o imports needed modules
+Tutorial_018
+v1 > Getters and Return Values
