@@ -59,3 +59,34 @@ v3 > Methods
 
 Tutorial_018
 v1 > Getters and Return Values
+
+Tutorial_019
+v1 > Method parameters
+v2 > Test
+
+Tutorial_020
+v1 > Setters and 'this'
+
+Tutorial_021
+v1 > Constructors
+
+Tutorial_021
+v1 > Static Variables and Methods
+
+Tutorial_022
+v1 > Static and Final
+
+Tutorial_023
+v1 > String builder and string formating
+
+Tutorial_024
+v1 > The toString method
+
+Tutorial_025
+v1 > Inheritance
+
+Tutorial_026
+v1 > Packages
+
+Tutorial_027
+v1 > Interfaces

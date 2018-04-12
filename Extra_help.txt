@@ -20,3 +20,7 @@ To delete a whole line use Ctrl +d when you are in that line
     
 6.
 Ctrl + Shift + o imports needed modules
+
+7.
+Use String builder instead of concatenating strings (+);
+
